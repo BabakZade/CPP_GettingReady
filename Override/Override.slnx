@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Override/Override.vcxproj" />
+  <Project Path="Override/Override.vcxproj" Id="4aeaa8d7-2d2d-4e24-974a-250fbf33dac4" />
 </Solution>

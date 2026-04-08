@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Array/Array.vcxproj" />
-  <Project Path="MatrixLab/MatrixLab.vcxproj" />
+  <Project Path="D:/Main/CPP_GettingReady/Array/Array/Array.vcxproj" Id="70eb7b4b-4021-48db-a354-9e91de07cba5" />
+  <Project Path="D:/Main/CPP_GettingReady/Array/MatrixLab/MatrixLab.vcxproj" Id="fb1edd2d-2713-4c3a-9ecc-8ac474eed27c" />
 </Solution>
